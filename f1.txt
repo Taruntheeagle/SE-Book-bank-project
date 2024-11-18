@@ -1,3 +1,6 @@
 hello
 hi 
 hw r u
+welcome
+to se project
+byee
